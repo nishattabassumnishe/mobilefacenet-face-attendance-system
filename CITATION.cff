@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code in your research, please cite our paper."
+title: "Face Recognition Based Attendance System Using Modified MobileFaceNet with Web Application"
+authors:
+  - family-names: "Zaman"
+    given-names: "Asif uz"
+    affiliation: "Department of EEE, Begum Rokeya University"
+  - family-names: "Nishe"
+    given-names: "Nishat Tabassum"
+    affiliation: "Department of EEE, Begum Rokeya University"
+  - family-names: "Datta"
+    given-names: "Tanmoy"
+    affiliation: "Department of EEE, Begum Rokeya University"
+  - family-names: "Debnath"
+    given-names: "Sumon Kumar"
+    affiliation: "Department of EEE, Begum Rokeya University"
+date-released: 2026-11-24
